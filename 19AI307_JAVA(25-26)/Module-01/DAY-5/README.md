@@ -26,8 +26,8 @@ To write a Java program to reverse a given string.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: 
-RegisterNumber:  
+Developed by: GEETHU R
+RegisterNumber:  212224040089
 */
 ```
 
